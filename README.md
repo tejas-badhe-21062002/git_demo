@@ -5,4 +5,7 @@ Author:- Tejas Badhe
 <br>
 This is my commit through VS code after commiting changes
 first branch changes through terminal
+<br>
 second edit
+<br>
+third edit
