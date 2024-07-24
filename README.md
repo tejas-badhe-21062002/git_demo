@@ -9,8 +9,5 @@ first branch changes through terminal
 second edit
 <br>
 third edit
-<<<<<<< HEAD
-=======
 <br>
 fourth edit twice
->>>>>>> tejas_first_branch
