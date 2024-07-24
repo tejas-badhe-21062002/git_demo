@@ -4,3 +4,4 @@ Demo repo for DevOps course
 Author:- Tejas Badhe
 <br>
 This is my commit through VS code after commiting changes
+first branch changes through terminal
